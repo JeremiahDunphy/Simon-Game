@@ -118,7 +118,6 @@ function userTurn() {
   }, gameLevel * 1000);
 }
 
-
 function restartGame() {
   gameLevel = -1;
   if (gameLevel == -1) {
